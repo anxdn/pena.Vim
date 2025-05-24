@@ -13,10 +13,9 @@ Modular Neovim configuration tailored for developers seeking a streamlined and e
   * [🔧 Prerequisites](#prerequisites)
   * [📥 Steps](#steps)
 * [📦 Installing LuaRocks](#-installing-luarocks)
-
   * [💻 For Unix/Linux/macOS](#for-unixlinuxmacos)
   * [🪟 For Windows](#for-windows)
-* [🗝️ Keybindings](#-keybindings)
+* [🗝️ Keybindings](#--keybindings)
   * [🪄 General](#-general)
   * [🪟 Window & Terminal Navigation](#-window--terminal-navigation)
   * [🔍 Telescope](#-telescope)
@@ -351,10 +350,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-[1]: https://github.com/vhyrro/luarocks.nvim?utm_source=chatgpt.com "Easily install luarocks with lazy.nvim - GitHub"
-[2]: https://www.reddit.com/r/neovim/comments/1bd499s/how_to_use_a_lua_module_from_luarocks_in_my/?utm_source=chatgpt.com "How to use a lua module from luarocks in my neovim plugin - Reddit"
-[3]: https://github.com/camspiers/luarocks?utm_source=chatgpt.com "Easily install luarocks with lazy.nvim - GitHub"
-[4]: https://luarocks.org/?utm_source=chatgpt.com "LuaRocks - The Lua package manager"
-[5]: https://esouimods.github.io/1-install_luarocks.html?utm_source=chatgpt.com "Installing LuaRocks | ESOUI Code Collection - GitHub Pages"
+[1]: https://github.com/vhyrro/luarocks.nvim "Easily install luarocks with lazy.nvim - GitHub"
+[2]: https://www.reddit.com/r/neovim/comments/1bd499s/how_to_use_a_lua_module_from_luarocks_in_my/ "How to use a lua module from luarocks in my neovim plugin - Reddit"
+[3]: https://github.com/camspiers/luarocks "Easily install luarocks with lazy.nvim - GitHub"
+[4]: https://luarocks.org/ "LuaRocks - The Lua package manager"
+[5]: https://esouimods.github.io/1-install_luarocks.html "Installing LuaRocks | ESOUI Code Collection - GitHub Pages"
 
 
