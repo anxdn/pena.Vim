@@ -15,7 +15,7 @@ Modular Neovim configuration tailored for developers seeking a streamlined and e
 * [📦 Installing LuaRocks](#-installing-luarocks)
   * [💻 For Unix/Linux/macOS](#for-unixlinuxmacos)
   * [🪟 For Windows](#for-windows)
-* [🗝️ Keybindings](#--keybindings)
+* [🗝️ Keybindings](#keybindings)
   * [🪄 General](#-general)
   * [🪟 Window & Terminal Navigation](#-window--terminal-navigation)
   * [🔍 Telescope](#-telescope)
